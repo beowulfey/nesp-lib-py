@@ -1,6 +1,6 @@
 """NESP-Lib – New Era Syringe Pump Library for Python"""
 
-VERSION = '1.0.2'
+VERSION = '1.1.1'
 """Version of NESP-Lib."""
 
 from .port import Port

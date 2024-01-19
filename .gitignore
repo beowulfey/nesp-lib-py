@@ -1,3 +1,5 @@
+dist/
+build/
 # Python Cache
 **/__pycache__
 # PyCharm
